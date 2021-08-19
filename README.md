@@ -8,7 +8,7 @@
 apt update && upgrade -y 
 pkg install git python mpv figlet -y
 pip install lolcat
-git clone
+git clone https://github.com/zahi00110/New.git
 cd New
 chmod +x *
 sh install.sh
