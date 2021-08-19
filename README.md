@@ -1,7 +1,7 @@
 # Termux interface ZAHI-#Hash
 
 
-#### Djhackers banner is Termux banner or interface with parroto os shell and Wellcome robot like Jarvis in Iron Man movie created with love 25-june -2021
+#### ZAHI-#Hash banner is Termux banner or interface with parroto os shell and Wellcome robot like Jarvis in Iron Man movie created with love 25-june -2021
 
 ## [+] Installation & Usage :atom_symbol:
 ```
